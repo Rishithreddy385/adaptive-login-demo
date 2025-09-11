@@ -1,1 +1,20 @@
-{}
+{
+    "adaptive-auth": {
+        "projectName": "adaptive-auth",
+        "description": "Simple adaptive authentication flow: password only for low risk, password + OTP for risky logins.",
+        "type": "community",
+        "author": "Rishithreddy385",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/Rishithreddy385/adaptive-login-demo",
+        "githubUri": "https://github.com/Rishithreddy385/adaptive-login-demo",
+        "license": "apache-2.0",
+        "lastUpdated": "1757562245362",
+        "tags": [
+            "authentication",
+            "otp",
+            "adaptive-auth"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
