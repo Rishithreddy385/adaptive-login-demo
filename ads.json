@@ -16,8 +16,7 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "Rishith.adaptive.main": {},
-            "wish.d": {}
+            "Rishith.adaptive.main": {}
         },
         "name": "adaptive-auth"
     }
